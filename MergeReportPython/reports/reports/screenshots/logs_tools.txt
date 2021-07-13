@@ -1,0 +1,15 @@
+Start of invoke perl in testcase : 1-2DCFW2
+Can't open perl script "C:\DISA\DesktopIntSiebelAgent\plugins\SiebelTestAutomation\\Resources\invokePerl\ClearValuationAmountField.pl": No such file or directory
+End of invokeperl in testcase : 1-2DCFW2
+Start of invoke perl in testcase : 1-7OUJTK
+perlexecstatus = true
+End of invokeperl in testcase : 1-7OUJTK
+Start of invoke perl in testcase : 1-7OUJTK
+Can't open perl script "C:\DISA\DesktopIntSiebelAgent\plugins\SiebelTestAutomation\\Resources\invokePerl\ClearValuationAmountField.pl": No such file or directory
+End of invokeperl in testcase : 1-7OUJTK
+Start of invoke perl in testcase : 1-2DCO1K
+perlexecstatus = true
+End of invokeperl in testcase : 1-2DCO1K
+Start of invoke perl in testcase : 1-2DCO1K
+Can't open perl script "C:\DISA\DesktopIntSiebelAgent\plugins\SiebelTestAutomation\\Resources\invokePerl\ClearValuationAmountField.pl": No such file or directory
+End of invokeperl in testcase : 1-2DCO1K

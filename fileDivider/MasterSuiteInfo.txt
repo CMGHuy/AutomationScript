@@ -1,0 +1,33 @@
+*******************************
+Master Suite information: 
+Total tests: 390
+Total steps: 18847
+Total weights: 34912
+Average weights: 3879
+Number of divided parts: 9
+*******************************
+Test Part information: 
+Test Part 1: 
+TestPart{ testPartName='test_1', totalTest=67, totalStep=2031, totalWeight=3904, contentTest=
+{
+Test Script 1: TestScriptDescription{ name='[1]Sales_CR_669-Enhance the Cheetah Admin Role with iHelp', weight=7, numSteps=3 }
+Test Script 2: TestScriptDescription{ name='[1]Sales_CR0182_UC0000_1_Create agency account manually', weight=29, numSteps=13 }
+Test Script 3: TestScriptDescription{ name='[1]Sales_UC0000_01_Create agency account manually', weight=45, numSteps=23 }
+Test Script 4: TestScriptDescription{ name='[1]Sales_UC0000_01_Update agency SPH assignment manually', weight=42, numSteps=20 }
+Test Script 5: TestScriptDescription{ name='[1]Sales_UC0000_01_Create corporate account manually', weight=39, numSteps=19 }
+...
+}
+*********************************************************************************************
+Test Part 2: 
+TestPart{ testPartName='test_2', totalTest=61, totalStep=2108, totalWeight=4116, contentTest=
+{
+Test Script 1: TestScriptDescription{ name='[2][RT]Sales_UC0000_01_Create sales lead manually', weight=40, numSteps=22 }
+Test Script 2: TestScriptDescription{ name='[1][RT]Sales_CR0024_NDA Confirmation Page', weight=11, numSteps=5 }
+Test Script 3: TestScriptDescription{ name='[1][RT]Sales_CR0182_UC0030_1_Create agency account manually', weight=29, numSteps=13 }
+Test Script 4: TestScriptDescription{ name='[1][RT]Sales_CR0348_All_Trackings_View', weight=17, numSteps=7 }
+Test Script 5: TestScriptDescription{ name='[1][RT]Sales_UC0000_01_Update contact manually', weight=62, numSteps=30 }
+Test Script 6: TestScriptDescription{ name='[1][RT]Sales_UC0000_01_Create contract manually', weight=53, numSteps=27 }
+Test Script 7: TestScriptDescription{ name='[1][RT]Sales_UC0000_01_Update contract manually', weight=73, numSteps=37 }
+Test Script 8: TestScriptDescription{ name='[1][RT]Sales_UC0000_03_Create tracking manually', weight=86, numSteps=44 }
+....
+}
