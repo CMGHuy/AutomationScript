@@ -1,0 +1,181 @@
+<html>
+<style>
+    img.beneath 
+    {
+	      float: left;
+	      margin: 10px;
+    }
+    img.beneathr 
+    {
+	      float: right;
+	      margin: 10px;
+    }
+    #table1
+    {
+        border-collapse: separate;
+        border-spacing: 2px;
+    }
+    .hoverRow
+    {
+        transition: transform 0.5s;
+    }
+    .hoverRow:hover
+    {
+        background-color: #AED6F1;
+        transform: scale(1.01);
+    }
+   </style>
+<head>
+<title>Cheetah Testing Report</title>
+<link href="./lib/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="./lib/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+<script src="./lib/js/jquery-3.4.1-min.js" type="text/javascript"></script>
+<script src="./lib/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="./lib/js/loader.js" type="text/javascript"></script>
+<script id="scriptChartTotal" type="text/javascript">function drawChart(){var a=google.visualization.arrayToDataTable([['TestCase','Number of Test Case'],['PASS',293],['FAIL',142]]);new google.visualization.PieChart(document.getElementById('totalPieChart')).draw(a,{title:'Total',titleTextStyle:{fontSize: 18},width:450,height:300,colors:['#00FA9A','#F08080'],is3D:!0,fontSize:15})}google.charts.load('current',{packages:['corechart']}),google.charts.setOnLoadCallback(drawChart);</script>
+<script id="scriptChartCFMRegression" type="text/javascript"></script>
+<script id="scriptChartCFMSanity" type="text/javascript"></script>
+<script id="scriptChartSalesSanity" type="text/javascript"></script>
+<script id="scriptChartSalesRegression" type="text/javascript"></script>
+</head>
+<body bgcolor="#DCDCDC">
+<div class="jumbotron text-center">
+<img alt="CHEETAH" class="beneath" src="./lib/image/cheetah_251x51.png"/>
+<img alt="CHEETAH" class="beneathr" src="./lib/image/lufthansa_300.png"/>
+<h1 style="text-align: center;">
+<strong>CHEETAH</strong>
+</h1>
+<h4 style="text-align: center;">
+<strong>Test Report</strong>
+</h4>
+</div>
+<table align="center" border="1" bordercolor="black" id="table1" width="50%">
+<tr bgcolor="white">
+<th align="left" bgcolor="#99CCFF"><font color="black" face="Calibri" size="3.5">Date:</font></th>
+<td colspan="6" id="date">Tue Jul  6 03:42:46 2021</td>
+</tr>
+<tr bgcolor="white">
+<th align="left" bgcolor="#99CCFF"><font color="black" face="Calibri" size="3.5">Test environments details:</font></th>
+<td colspan="6"><a href="../logs/ini.html">Click here</a></td>
+</tr>
+<tr bgcolor="#C0C0C0">
+<th bgcolor="#C0C0C0" style="text-align: center;"><font color="black" face="Calibri" size="3.5">Testset Name</font></th>
+<th bgcolor="#C0C0C0" style="text-align: center;"><font color="black" face="Calibri" size="3.5">No of Test Cases</font></th>
+<th bgcolor="#C0C0C0" style="text-align: center;"><font color="black" face="Calibri" size="3.5">Pass</font></th>
+<th bgcolor="#C0C0C0" style="text-align: center;"><font color="black" face="Calibri" size="3.5">Fail</font></th>
+<th bgcolor="#C0C0C0" style="text-align: center;"><font color="black" face="Calibri" size="3.5">Test Cases not executed</font></th>
+<th bgcolor="#C0C0C0" style="text-align: center;"><font color="black" face="Calibri" size="3.5">%Pass</font></th>
+<th bgcolor="#C0C0C0" style="text-align: center;"><font color="black" face="Calibri" size="3.5">%Fail</font></th>
+</tr>
+<tr bgcolor="#FFFFFF" class="hoverRow" id="testset1">
+<th style="text-align: center;">
+<font align="center" color="black" face="Calibri" size="3.5">
+<a href="SalesSanity.html">
+<h5>
+               SalesSanity
+               </h5>
+</a>
+</font>
+</th>
+<th style="text-align: center;">27</th>
+<th style="text-align: center;">25</th>
+<th style="text-align: center;">2</th>
+<th style="text-align: center;"><font align="center" color="black" face="Calibri" size="3.5">0</font></th>
+<th bgcolor="#00FA9A" style="text-align: center;">92%</th>
+<th bgcolor="#F08080" style="text-align: center;">8%</th>
+</tr>
+<tr bgcolor="#FFFFFF" class="hoverRow" id="testset2">
+<th style="text-align: center;">
+<font align="center" color="black" face="Calibri" size="3.5">
+<a href="CFMSanity.html">
+<h5>
+              CFMSanity
+              </h5>
+</a>
+</font>
+</th>
+<th style="text-align: center;">68</th>
+<th style="text-align: center;">42</th>
+<th style="text-align: center;">26</th>
+<th style="text-align: center;"><font align="center" color="black" face="Calibri" size="3.5">0</font></th>
+<th bgcolor="#00FA9A" style="text-align: center;">61%</th>
+<th bgcolor="#F08080" style="text-align: center;">39%</th>
+</tr>
+<tr bgcolor="#FFFFFF" class="hoverRow" id="testset3">
+<th style="text-align: center;">
+<font align="center" color="black" face="Calibri" size="3.5">
+<a href="SalesRegression.html">
+<h5>
+              SalesRegression
+              </h5>
+</a>
+</font>
+</th>
+<th style="text-align: center;">77</th>
+<th style="text-align: center;">66</th>
+<th style="text-align: center;">11</th>
+<th style="text-align: center;"><font align="center" color="black" face="Calibri" size="3.5">0</font></th>
+<th bgcolor="#00FA9A" style="text-align: center;">85%</th>
+<th bgcolor="#F08080" style="text-align: center;">15%</th>
+</tr>
+<tr bgcolor="#FFFFFF" class="hoverRow" id="testset4">
+<th style="text-align: center;">
+<font align="center" color="black" face="Calibri" size="2.5">
+<a href="CFMRegression.html">
+<h5>
+              CFMRegression
+              </h5>
+</a>
+</font>
+</th>
+<th style="text-align: center;">263</th>
+<th style="text-align: center;">160</th>
+<th style="text-align: center;">103</th>
+<th style="text-align: center;"><font align="center" color="black" face="Calibri" size="3.5">0</font></th>
+<th bgcolor="#00FA9A" style="text-align: center;">60%</th>
+<th bgcolor="#F08080" style="text-align: center;">40%</th>
+</tr>
+<tr bgcolor="#99CCFF" class="hoverRow" id="total">
+<font align="center" color="black" face="Calibri" size="2.0">
+<th>
+<h5 align="center">
+<strong>
+                TOTAL
+               </strong>
+</h5>
+</th>
+<th style="text-align: center;">435</th>
+<th style="text-align: center;">293</th>
+<th style="text-align: center;">142</th>
+<th style="text-align: center;"><font align="center" color="black" face="Calibri" size="3.5">0</font></th>
+<th bgcolor="#00FA9A" style="text-align: center;">67%</th>
+<th bgcolor="#F08080" style="text-align: center;">33%</th>
+</font>
+</tr>
+</table>
+<div class="container">
+<div class="row">
+<div id="totalPieChart" style="margin: auto;">
+</div>
+</div>
+<div class="row">
+<div class="column" style="margin-left: 40px;">
+<div id="SalesSanityPieChart" style="margin: auto;">
+</div>
+</div>
+<div class="column">
+<div id="CFMSanityPieChart" style="margin: auto;">
+</div>
+</div>
+<div class="column">
+<div id="SalesRegressionPieChart" style="margin: auto;">
+</div>
+</div>
+<div class="column">
+<div id="CFMRegressionPieChart" style="margin: auto;">
+</div>
+</div>
+</div>
+</div>
+</body>
+</html> 

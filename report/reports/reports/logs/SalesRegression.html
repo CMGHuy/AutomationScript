@@ -1,0 +1,70 @@
+<html>
+<style>
+    .hoverRowPass 
+    {
+        transition: transform 0.5s;
+    }
+    .hoverRowFail 
+    {
+        transition: transform 0.5s;
+    }
+    .hoverRowPass:hover, .hoverRowPass th:nth-of-type(3)
+    {
+        background-color: #00FA9A;
+        transform: scale(1.02);
+    }
+    .hoverRowFail:hover, .hoverRowFail th:nth-of-type(3)
+    {
+        background-color: #F08080;
+        transform: scale(1.02);
+    }
+</style>
+<head>
+<title>Sales Regression</title>
+<script src="./lib/js/loader.js" type="text/javascript"></script>
+<script id="scriptChart" type="text/javascript">function drawChart(){var a=google.visualization.arrayToDataTable([['TestCase','Number of Test Case'],['PASS',1],['FAIL',2]]);new google.visualization.PieChart(document.getElementById('piechart')).draw(a,{title:'Sales Regression',width:450,height:300,colors:['#00FA9A','#F08080'],is3D:!0,fontSize:13,backgroundColor:'#DCDCDC'})}google.charts.load('current',{packages:['corechart']}),google.charts.setOnLoadCallback(drawChart);</script>
+</head>
+<body bgcolor="#DCDCDC">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script><script>$(document).ready(function(){var $rows = $('#table tr:not(:first-child)');$('#search').keyup(function() {var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();        $rows.hide().filter(function() {        var text = $(this).text().toLowerCase();        return text.indexOf(val) != -1  && $(this).children().last().text()!='NOT_EXECUTED';    }).show();});});</script>
+<center>
+<h4><font color="#483D8B">Search: <input id="search" name="fname" placeholder="Fail/Pass/ScrumpyID" type="text"/></font></h4>
+</center>
+<table align="center" border="1" bordercolor="black" id="table" width="30%">
+<tr>
+<caption>
+<h1><font color="#483D8B">Sales Regression</font></h1>
+</caption>
+</tr>
+<tr bgcolor="#6495ED">
+<th align="center"><font color="white" face="Calibri" size="3.5">#SI No</font></th>
+<th align="center"><font color="white" face="Calibri" size="3.5">Description</font></th>
+<th align="center"><font color="white" face="Calibri" size="3.5">  Result</font></th>
+</tr>
+<tr bgcolor="#FFFFFF" class="hoverRowFail" style="display: table-row;"> <th><font align="center" color="black" face="Calibri" size="2.5">1</font></th> <th><font align="left" color="black" face="Calibri" size="2.5">[1][RT]Sales_UC2070_01_Agency Customer Card standard report</font></th> <th><font align="center" color="black" face="Calibri" size="2.5"><a href="1-1OFPVO_10082020_114431198.html">FAIL</a></font></th> </tr><tr bgcolor="#FFFFFF" class="hoverRowPass" style="display: table-row;"> <th><font align="center" color="black" face="Calibri" size="2.5">2</font></th> <th><font align="left" color="black" face="Calibri" size="2.5">[1][RT]Sales_UC2080_01_Company Customer Card standard report</font></th> <th><font align="center" color="black" face="Calibri" size="2.5"><a href="1-265W7T_10082020_113911687.html">PASS</a></font></th> </tr><tr bgcolor="#FFFFFF" class="hoverRowFail" style="display: table-row;"> <th><font align="center" color="black" face="Calibri" size="2.5">3</font></th> <th><font align="left" color="black" face="Calibri" size="2.5">[1][RT]Sales_UC2090_01_Person Customer Card standard report</font></th> <th><font align="center" color="black" face="Calibri" size="2.5"><a href="1-265WTQ_10082020_114243220.html">FAIL</a></font></th> </tr></table>
+<center>
+<div id="piechart">
+</div>
+</center>
+<table align="center" border="1" bordercolor="black" id="table2" width="30%">
+<tr>
+<caption>
+<h3><font color="#483D8B">SUMMARY</font></h3>
+</caption>
+</tr>
+<tr bgcolor="#6495ED">
+<th align="center"><font color="white" face="Calibri" size="3.5">Build No</font></th>
+<th align="center"><font color="white" face="Calibri" size="3.5">Total TestCases</font></th>
+<th align="center"><font color="white" face="Calibri" size="3.5">Pass</font></th>
+<th align="center"><font color="white" face="Calibri" size="3.5">Fail</font></th>
+<th align="center"><font color="white" face="Calibri" size="3.5">Not Executed</font></th>
+</tr>
+<tr bgcolor="#FFFFFF" id="summary">
+<th><font align="center" color="black" face="Calibri" size="2.5">1</font></th>
+<th><font align="center" color="black" face="Calibri" size="2.5">3</font></th>
+<th><font align="center" color="black" face="Calibri" size="2.5">1</font></th>
+<th><font align="center" color="black" face="Calibri" size="2.5">2</font></th>
+<th><font align="center" color="black" face="Calibri" size="2.5"><a href="Not_Executed03242020112831.html" id="notexec">0</a></font></th>
+</tr>
+</table>
+</body>
+</html>

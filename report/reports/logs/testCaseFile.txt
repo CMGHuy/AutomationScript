@@ -1,0 +1,436 @@
+[1][RT]CFM_CR0482_UC2050_02_Forward_reassign feedback to team manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR1057_UC2610_03_Assign feedback for approval (Multiple Payment)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR393_UC2365_01_Define payment	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2730_01_Close feedback	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2640_02_Perform local QA	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_UC4400_02_Availability and function of admin view to add remove update ALL commercial coding and details Mike Guwak Finale	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR417_UC1700_03_Merge feedbacks	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0472_UC2630_04_Perform payment approval (Goody) test	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC1490_01_Update Company - Agency Data (Corporate)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2610_10_Assign feedback for approval	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_DEF6023_UC2450_03_Initiate internal request -Draft and Send - v1.00	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0486_UC2365_04_Define payment_ReasonCode_4.1_final	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR393_UC2370_04_Enter payment details	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR393_UC2370_05_Enter payment details	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0513_UC2285_02_Retrieve information from Incident Calendar manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC1450_01_Lookup_Person_Manually_SAMBA_v2.00_Mike_Guwak_final	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR420_UC2730_02_Close feedback	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2380_01_Execute payment (Manual Registration)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2380_04_Execute payment (Print Receipt)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0485_IC0320_Bank validation result in case of Country and Bank Code	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC1450_02_Lookup_Person_Manually_SAMBA_v2.00_Mike_Guwak_finale	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC1450_03_Lookup_Person_Manually_SAMBA_v2.00_Mike_Guwak_finale	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0484_UC1560_01_Create Feedback manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2283_01_Retrieve information from SAMBA manually	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule8 - test	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR1057_UC2610_04_Assign feedback for approval (Multiple Goodies)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2283_03_Retrieve information from SAMBA manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC1490_02_Update Company - Agency Data (Agency)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR390_UC2630_03_Perform payment approval (Payment_Goody)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0541_UC4090_01_Maintain user skills	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0472_UC2630_03_Perform payment approval (Goody)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2610_09_Assign feedback for approval	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0450_UC1460_01_Lookup feedback manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0472_UC2630_05_Perforrm Compensation approval test	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2580_03_Save document	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0544_02_Login with Updated user _ Part 2_Test 1	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0482_UC2050_09_Forward_reassign feedback to team manually	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR393_UC2375_02_Validation of payment details	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2400_01_Charging to Insurers	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR1057_UC2610_01_Assign feedback for approval (Payment)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS10_Check First Commercial Code Rule 10	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_TC2 Check the Approval Limit with 3 Persons - payment and goody	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_TC4 Check the Approval Limit with one Person - goody	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_TC3 Check the Approval Limit with one Person - payment and goody	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0482_UC2050_07_Forward_reassign feedback to team manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2360_02_Send goody	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2630_08_Perform compensation approval (Payment)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR390_UC2630_01_Perform payment approval	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2030_01_Assign feedback to team automatically	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR543_UC2485_07_Send customer satisfaction survey	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS07_Check First Commercial Code Rule 07	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0400_UC2720_02_Create feedback summary	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0486_UC2330_03_Add Case_ReasonCode_not_4.1	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0482_UC2050_08_Forward_reassign feedback to team manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_Generate_Not_Approved_Feedback	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2730_04_Close feedback	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR437_UC2365_01_Define payment_Cost type for Valuation	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS11_Check First Commercial Code Rule 11	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0482_UC2050_10_Forward_reassign feedback to team manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0496_UC2770_01_Create Reminder	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2650_02_Send letter	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0486_UC2330_03_Add Case_ReasonCode_4.1	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_Rerun_Research_06 Take Ownership with Assignment Info	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS18_Check First Commercial Code Rule 18	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2060_01_Assign_reassign feedback to agent manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR1041_04 Check the button Send PaymentsGoodies  two persons - Negative Case - V1.00	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0484_UC1560_04_Create Feedback manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2610_02_Assign feedback for approval (Goody)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR1120_UC2670_01_Send email_Senior C or D v00	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2310_04_Search Incident Calendar automatically	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0513_UC2310_05_Search Incident Calendar automatically	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS06_Check First Commercial Code Rule 06	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2070_01_ Mass_forwarding	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2630_10_Perform compensation approval_N test	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS16_Check First Commercial Code Rule 16	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_TC5 Check the Approval Limit with 2 Persons - only goody	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0400_UC2720_01_Create feedback summary	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2610_04_Assign feedback for approval (Payment)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR900_New search field Voucher CodeBackup	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2310_01_Search Incident Calendar automatically	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2610_08_Assign feedback for approval (Multiple Payment + Goody)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS08_Check First Commercial Code Rule 08	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0488_UC1560_04_Create Feedback manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0436_UC2650_02_Central Print process	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule22	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule22	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule21	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule21	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC1760_01_Search code tree nodes manually	PASS	Tue Jul  6 03:42:46 2021	None
+"[1][RT]CFM_UC2730_Close and Re-Open Feedback_V1.0 "	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2070_02_ Mass_forwarding	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_Search in Tolerant TC5	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_Search in Tolerant TC4	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_Search in Tolerant TC3	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_Search in Tolerant TC1	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule17	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule16	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule19	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule18	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2610_01_Assign feedback for approval (Payment)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR1057_UC2610_05_Assign feedback for approval (Goodies and Payments by different agents)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2630_01_Perform compensation approval (Payment)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC1710_03_Split feedback (Copy Feedback)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2310_03_Search Incident Calendar automatically	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_DEF6023_UC2450_02_Initiate internal request - draft - v1.00	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR393_UC2365_Define payment	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR767_UC2372_UC2380_01_Checks and Enter Norway Payment	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS12_Check First Commercial Code Rule 12	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR518_UC1620_03_Export non-feedback manually	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS17_Check First Commercial Code Rule 17	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0544_01_Test New Location ( Part 1 )	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR697_UC2850_02_Feedback Automatic Forward_Email Message v0.00	FAIL	Tue Jul  6 03:42:46 2021	None
+[2][RT]CFM_UC2283_03_Retrieve information from SAMBA manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0482_UC2050_01_Forward_reassign feedback to team manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR393_UC2380_01_Execute payment	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0394_UC1720_02_TLs_SVs_Delete_feedback	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR1041_02 Check the button Send PaymentsGoodies  one person - Negative Case - V1.00	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2360_03_Send goody	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR539_UC2340_04_Select goody for order	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0513_UC2310_06_Search Incident Calendar automatically	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_INT_CR767_UC 2370_02_Enter payment details (Wire Transfer)_Canadian_Payments	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2440_02_Initiate external request (customer)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR417_UC1700_02_Merge feedbacks	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2370_03_Enter payment details (Cash)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC1710_02_Split feedback (Copy Feedback)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR417_UC1700_01_Merge Feedbacks- v0.00_TestByMehran_newBackUp_final	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2610_06_Assign feedback for approval (Multiple Payment + Goody)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2285_04_Retrieve information from Incident Calendar manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR1041_02 Check the button Send PaymentsGoodies  one personNegative CaseV1.00	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule20	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0450_UC2080_04_Pull feedback Summary_test	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2630_03_Perform compensation approval (Goody)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2630_03_Perform compensation approval (Goody)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_INT_CR767_UC 2372_01_Enter payment details (Wire Transfer)_Swedish_Payments	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_INT_CR767_UC 2372_01_Enter payment details (Wire Transfer)_Swedish_Payments	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR417_UC1700_05_Merge feedbacks (Alternative Flow)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR417_UC1700_05_Merge feedbacks (Alternative Flow)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_DF5181_Tolerant_Score_with_Country	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_DF5181_Tolerant_Score_with_Country	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0541_UC2080_08_Pull_feedback_Take Ownership	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0541_UC2080_08_Pull_feedback_Take Ownership	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR375_UC2370_01_Enter payment details (Wire Transfer)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR375_UC2370_01_Enter payment details (Wire Transfer)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC1450_01_Lookup_Person_Manually_Tolerant_v2.00_Mike_Guwak_finale	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC1450_01_Lookup_Person_Manually_Tolerant_v2.00_Mike_Guwak_finale	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2630_06_Perform compensation approval (Payment + Goody) test	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2630_06_Perform compensation approval (Payment + Goody) test	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2611_01_Assign feedback for local QA_check	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2611_01_Assign feedback for local QA_check	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR1057_07_Assign feedback for approval - same user teamlead - Goody - V1.00	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR1057_07_Assign feedback for approval - same user teamlead - Goody - V1.00	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR504_UC2485_02_Send customer satisfaction survey_N	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR504_UC2485_02_Send customer satisfaction survey_N	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2670_01_Send email	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2670_01_Send email	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR1057_06_Assign feedback for approval - same user Teamlead - Payment - V1.00	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR1057_06_Assign feedback for approval - same user Teamlead - Payment - V1.00	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0472_UC2630_01_Perform payment approval test	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0472_UC2630_01_Perform payment approval test	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_944 - Reenter Case Code	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_944 - Reenter Case Code	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2630_04_Perform compensation approval (Goody)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2630_04_Perform compensation approval (Goody)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS04_Check First Commercial Code Rule 04	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS04_Check First Commercial Code Rule 04	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR461_UC2760_01_Display ToDo List	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR461_UC2760_01_Display ToDo List	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_Rerun_Research_04 Create with Assignment Info	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_Rerun_Research_04 Create with Assignment Info	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC1450_04_Lookup_Person_Manually_Tolerant_v2.00_Mike_Guwak_finale	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC1450_04_Lookup_Person_Manually_Tolerant_v2.00_Mike_Guwak_finale	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule5	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule5	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule7	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule7	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule9	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule9	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR420_UC2730_01_Close feedback	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR420_UC2730_01_Close feedback	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2050_04_Forward_reassign feedback to team manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2050_04_Forward_reassign feedback to team manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule1	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2730_01_Close feedback_Rule1	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR539_UC2340_01_Select goody for order	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR539_UC2340_01_Select goody for order	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0450_UC2080_01_ Pull_feedback	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0450_UC2080_01_ Pull_feedback	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS05_Check First Commercial Code Rule 05	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS05_Check First Commercial Code Rule 05	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR390_UC2630_05_Perform payment approval (Payment_Goody)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0482_UC2050_03_Forward_reassign feedback to team manually	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2340_05_Select goody for order	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS15_Check First Commercial Code Rule 15	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0541_UC2080_07_Pull_feedback_Take Ownership	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS09_Check First Commercial Code Rule 09	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0513_UC2310_07_Search Incident Calendar automatically	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC1760_02_Search code tree nodes manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2610_03_Assign feedback for approval (Goody)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0485_IC0320_Bank validation result in case of IBAN	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0450_UC1460_02_Lookup feedback manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2640_04_Perform local QA_Goody Approval	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS13_Check First Commercial Code Rule 13	PASS	Tue Jul  6 03:42:46 2021	None
+"[1][RT]CFM_CR1120_UC2375_01_Validation of payment details "	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR539_UC2340_02_Select goody for order	PASS	Tue Jul  6 03:42:46 2021	None
+[2][RT]CFM_CR0541_UC4090_01_Maintain user skills	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2630_05_Perform compensation approval (Payment + Goody) test	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS14_Check First Commercial Code Rule 14	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_Reassign to Team (UC 2050)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2610_07_Assign feedback for approval (Multiple Payment)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0513_UC2285_03_Retrieve information from Incident Calendar manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2360_01_Send goody	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_Search in Samba TC1	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_Search in Samba TC2	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_Search in Samba TC3	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0541_UC2080_06_Pull_feedback_Take Ownership	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS02_Check First Commercial Code Rule 02	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0488_UC2365_02_Define payment	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_TC8 Check the button SendPaymentsGoodies  one person Feedback List	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS01_Check First Commercial Code Rule 01	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0482_UC2050_11_Forward_reassign feedback to team manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2310_02_Search Incident Calendar automatically	PASS	Tue Jul  6 03:42:46 2021	None
+"[1][RT]CFM_CR251_UC4400_01_Availability_and_function_of_admin_view_for_commercial_code_Mike_Guwak_Finale "	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2640_01_Perform local QA	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0486_UC2365_04_Define payment_ReasonCode_not_4.1_final	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR1057_UC2610_02_Assign feedback for approval (Goody)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR420_UC2730_03_Close feedback_N_	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2060_02_Assign_reassign feedback to agent manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR539_UC2340_03_Select goody for order	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR251_RS03_Check First Commercial Code Rule 03	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0394_UC1720_01_TLs_SVs_Delete feedback	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR417_UC1700_04_Merge feedbacks (Alternative Flow)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR1057_08_Assign feedback for approval - same user Supervisor - Payment - V1.00	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR417_UC1700_01_Merge feedbacks	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2580_01_Save document	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2630_09_Perform compensation approval_N	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2370_02_Enter payment details (Cheque)	FAIL	Tue Jul  6 03:42:46 2021	None
+[2][RT]CFM_CR0455_UC2610_01_Assign feedback for approval (Payment)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2730_03_Close feedback test	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR 812 _Enhancement of automated FB Forwarding for LGBS	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_TC6 Check the button SendPaymentsGoodies  one person	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0472_UC2640_01_Perform local QA	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR390_UC2630_06_Perform payment approval (Payment_Goody)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC1450_02_Lookup_Person_Manually_Tolerant_v2.00_Mike_Guwak_finale	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0541_UC2080_04_Pull_feedback	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0541_UC2080_05_Pull_feedback	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC1710_01_Split feedback (Copy Feedback)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0008_UC2030_01_Assign_feedback_to_team_automatically_v1.00_Mike_Guwak_finale	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2450_02_Initiate internal request	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_TC7 Check the button Send PaymentsGoodies - two persons	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_Rerun_Research_05 Take Ownership with No Assignment Info	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR393_UC2375_01_Validation of payment details	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0461_UC2760_01_Display ToDo List	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC1760_03_Search code tree nodes manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_TC1 Check the Approval Limit with 2 Persons - only payment	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0455_UC2730_02_Close feedback	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0468_UC2365_01_Define payment	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR697_UC2850_03_Feedback Automatic Forward - v0.00	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_DEF6023_UC2450_01_Initiate internal request - v1.00	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR0488_UC1560_01_Create Feedback manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC1450_03_Lookup_Person_Manually_Tolerant_v3.00_Mike_Guwak_finale	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_CR393_UC2365_03_Define payment	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_UC2450_01_Initiate internal request	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]CFM_Search in Samba TC4	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC3060_01_Apply access to UCID	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0530_03_Create tracking manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_669 - Enhace the Cheetah Admin Role with iHelp	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0200_01_Create corporate account manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0030_02_Create agency account manually_check_duplicated(completed)	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC1300_01_Check duplicate leads	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC1150_01_Finish opportunity	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0590_01_Check duplicate agency corporate account manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0080_01_Update agency SPH assignment manually	PASS	Tue Jul  6 03:42:46 2021	None
+[2][RT]Sales_UC1010_01_Create sales lead manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_TC for UC510_01 Update Contract Manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC1240_01_Manage user task list	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0080_03_Update agency SPH assignment manually_N	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_INT_UC2090_01_Person Customer Card standard report	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC1010_01_Create sales lead manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_TC for UC0490_01 Create Contract Manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC1200_01_Report contact manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_INT_UC2080_01_Company Customer Card standard report	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0490_01_Create contract manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_TC for UC0400_01 Create Contract Manually	FAIL	Tue Jul  6 03:42:46 2021	None
+[2][RT]Sales_UC1010_03_Create sales lead manually Dup Check	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0450_01_Manage contact central groupings	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0630_01_Apply address rules_N	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_CR0182_UC0070_2_Update agency account manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_CR0182_UC0070_2_Update agency account manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_CR0182_UC0030_1_Create agency account manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_CR0182_UC0030_1_Create agency account manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_TC for UC0410_01 Update contact manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_TC for UC0410_01 Update contact manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC1260_01_Create task	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC1180_01_Visit or call account	PASS	Tue Jul  6 03:42:46 2021	None
+[2][RT]Sales_CR0024_NDA Confirmation Page	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_CR0182_UC0030_2_Create agency account manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0510_01_Update contract manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC1100_01_Create opportunity manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC1060_01_Archive sales lead	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC1010_03_Create sales lead manually Dup Check	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_Case_Sensitive_Fields	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0400_01_Create contact manually	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_QS_TC_for_UC_590_01_Check_duplicate_agency_corporate_account_manually_Mike Guwak	PASS	Tue Jul  6 03:42:46 2021	None
+[2][RT]Sales_UC0490_01_Create contract manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0630_02_Apply address rules for create agency account_N	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_INT_UC2070_01_Agency Customer Card standard report	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_CR0182_UC0070_1_Update agency account manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0580_01_Check tracking overlapping	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0030_01_Create agency account manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0030_01_Create agency account manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0180_01_Manage agency account local groupings	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0180_01_Manage agency account local groupings	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC3170_01_Calculate Default SPH	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC3170_01_Calculate Default SPH	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0410_01_Update contact manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0410_01_Update contact manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC1015_01_Update sales lead Manually	PASS	Tue Jul  6 03:42:46 2021	None
+[2][RT]Sales_UC0030_02_Create agency account manually_check_duplicated	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0350_01_Manage corporate account central grouping	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0420_01_Delete agency account contact manually	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0150_01_Manage agency account central groupings	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_829  - Implant Tracking generated from agency FAKIR ID finished	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_CR0738_SALES_Customization_of_automatic_system_Activities	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_CR663	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_CR0024_NDA Confirmation Page	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_CR0348_All_Trackings_View	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC1090_01_Promote sales lead to customer	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_CR854completed	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0120_10_Delete agency account manually_N	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0200_04_Create corporate account manually_check_duplicated Duplicate	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0530_06_Create tracking manually_N	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_TC for UC 70  Update agency account manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0290_01_Update sales status	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0640_01_Apply name rules_N	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_TC for UC 30 Create agency account manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0090_01_Update agency CHH assignment manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0430_01_Delete corporate account contact manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0600_02_Check duplicate contact manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC0260_04_Update corporate account hierarchy	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]Sales_UC1131_01_Assign opportunity	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0513_UC2285_02_Retrieve information from Incident Calendar manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0472_UC2640_04_Perform local QA_Goody Review	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_UC2283_01_Retrieve information from SAMBA manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1]?CFM_UC1700_10_Merge Feedbacks- v0.00_TestByMehran_final	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR697_UC4500_02_Manage Automatic Forward of Feedback_Activate - v0.00	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0455_UC2611_02_Assign feedback for local QA_Compensation	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0455_UC2640_05_Perform_local_QA_N	PASS	Tue Jul  6 03:42:46 2021	None
+[2]CFM_UC2283_01_Retrieve information from SAMBA manually	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR420_UC2730_02_Close feedback	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR251_UC3010_09_Commercial Codes and Process Steps Report LH Feedback and LH Case	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]CFM_Rerun_Research_03 Create No Assignment Info	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR697_UC2850_01_Feedback Automatic Forward_Category and Reason Codes - v0.00	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0400_UC2720_01_Create feedback summary	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR251_UC3010_04_Commercial Codes and Process Steps Report LH Feedback	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR0496_UC2770_05_Create reminder - v0.00	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_02_Additional Rights Take Ownership PG NYC_Regular Agent - v0.00_Part1	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_UC1490_01_Update Company - Agency Data (Corporate)	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0541_UC2080_06_Pull_feedback_Take Ownership	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_UC2310_01_Search Incident Calendar automatically	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR697_UC4510_01_Target Department Mapping - v0.00	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0450_UC2080_03_ Pull_feedback	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0541_UC2080_04_Pull_feedback	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR417_UC1700_03_Merge feedbacks	PASS	Tue Jul  6 03:42:46 2021	None
+[1]?CFM_UC1700_08_Merge Feedbacks- v0.00_TestByMehran_final	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_UC2580_02_Save document	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_01_Additional Rights Take Ownership PG NYC_SupervisorTeamlead - v0.00_Part9	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_01_Additional Rights Take Ownership PG NYC_SupervisorTeamlead - v0.00_Part8	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_01_Additional Rights Take Ownership PG NYC_SupervisorTeamlead - v0.00_Part7	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_01_Additional Rights Take Ownership PG NYC_SupervisorTeamlead - v0.00_Part6	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_01_Additional Rights Take Ownership PG NYC_SupervisorTeamlead - v0.00_Part5	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_01_Additional Rights Take Ownership PG NYC_SupervisorTeamlead - v0.00_Part4	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_01_Additional Rights Take Ownership PG NYC_SupervisorTeamlead - v0.00_Part3	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_01_Additional Rights Take Ownership PG NYC_SupervisorTeamlead - v0.00_Part2	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_01_Additional Rights Take Ownership PG NYC_SupervisorTeamlead - v0.00_Part1	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0461_UC2760_02_Display ToDo List	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR697_UC2850_Feedback Automatic Forward - v0.00	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]CFM_UC2360_01_Send goody	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_UC1490_02_Update Company - Agency Data (Agency)	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_UC1490_02_Update Company - Agency Data (Agency)	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0455_UC2640_06_Perform local QA_N	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0455_UC2640_06_Perform local QA_N	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_909 CFM - Field _Euro Amount_ to be added to Valuation	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]CFM_909 CFM - Field _Euro Amount_ to be added to Valuation	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0455_UC2610_01_Assign feedback for approval (Payment)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0455_UC2610_01_Assign feedback for approval (Payment)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0455_UC2630_07_Perform compensation approval (Goody)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0455_UC2630_07_Perform compensation approval (Goody)	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]?CFM_UC1700_09_Merge Feedbacks- v0.00_TestByMehran_final	PASS	Tue Jul  6 03:42:46 2021	None
+[1]?CFM_UC1700_09_Merge Feedbacks- v0.00_TestByMehran_final	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR697_UC4500_01_Manage Automatic Forward of Feedback_Inactivate - v0.00final	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR697_UC4500_01_Manage Automatic Forward of Feedback_Inactivate - v0.00final	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR539_UC2340_01_Select goody for order	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_02_Additional Rights Take Ownership PG NYC_Regular Agent - v0.00_Part9	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_02_Additional Rights Take Ownership PG NYC_Regular Agent - v0.00_Part8	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_02_Additional Rights Take Ownership PG NYC_Regular Agent - v0.00_Part7	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_02_Additional Rights Take Ownership PG NYC_Regular Agent - v0.00_Part6	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_02_Additional Rights Take Ownership PG NYC_Regular Agent - v0.00_Part5	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_02_Additional Rights Take Ownership PG NYC_Regular Agent - v0.00_Part4	FAIL	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_02_Additional Rights Take Ownership PG NYC_Regular Agent - v0.00_Part3	PASS	Tue Jul  6 03:42:46 2021	None
+[1][RT]?CFM_CR870_UC2080_02_Additional Rights Take Ownership PG NYC_Regular Agent - v0.00_Part2	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0394_UC1720_02_TLs_SVs_Delete feedback	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR251_UC3010_07_Commercial Codes and Process Steps Report LH Case	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0450_UC1460_01_Lookup feedback manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0472_UC2630_05_Perforrm Local QA	PASS	Tue Jul  6 03:42:46 2021	None
+[1]?CFM_UC1700_07_Merge Feedbacks- v0.00_TestByMehran	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_UC2650_01_Send letter	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0455_UC2610_02_Assign feedback for approval (Goody)	PASS	Tue Jul  6 03:42:46 2021	None
+[1]CFM_CR0472_UC2640_03_Perform local QA_Payments Approval	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC0410_01_Update contact manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC0580_01_Check tracking overlapping	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC0200_01_Create corporate account manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC1010_01_Create sales lead manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC1100_01_Create opportunity manually	PASS	Tue Jul  6 03:42:46 2021	None
+[2]Sales_UC2080_01_Company Customer Card standard report	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC0590_01_Check duplicate agency corporate account manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC1300_01_Check duplicate leads	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC0400_01_Create contact manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC0200_04_Create corporate account manually_check_duplicated	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC0530_03_Create tracking manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC0260_04_Update corporate account hierarchy	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC0030_01_Create agency account manually	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC1240_01_Manage user task list	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC2070_01_Agency Customer Card standard report	PASS	Tue Jul  6 03:42:46 2021	None
+[2]Sales_UC1260_01_Create task	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_CR0182_UC0030_1_Create agency account manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC0490_01_Create contract manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC1015_01_Update sales lead Manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_CR_669-Enhance the Cheetah Admin Role with iHelp	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC1180_01_Visit or call account	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC0600_02_Check duplicate contact manually	PASS	Tue Jul  6 03:42:46 2021	None
+[2]Sales_UC1010_01_Create sales lead manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC2090_01_Person Customer Card standard report	FAIL	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC0080_01_Update agency SPH assignment manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC0510_01_Update contract manually	PASS	Tue Jul  6 03:42:46 2021	None
+[1]Sales_UC1150_01_Finish opportunity	PASS	Tue Jul  6 03:42:46 2021	None
+435	293	142
