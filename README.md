@@ -19,3 +19,7 @@ All the code to control the system including:
         + MergeReportPython: contains the script to merge test reports to form the final test report  
         + GenerateMainResultHtml: contains the script to convert the test script into the appropriate HTML template  
         + fileDivider: contains the jar file used to divide the master test suite into multiple test sets  
+        + configDownloader: contains the jar file, which is testReplyPost.jar, to send SOAP request to Siebel and download the master suite description
+            * configXml: output.xml is the returned file from Siebel. test.xml is the request file. 
+                         These files are not fully documented since they contain confidential data
+            * outputFile: the batchconfig and masterSuite file
