@@ -25,3 +25,4 @@ All the code to control the system including:
             * configXml: output.xml is the returned file from Siebel. test.xml is the request file. 
                          These files are not fully documented since they contain confidential data
             * outputFile: the batchconfig and masterSuite file
+        + nginx: contains the scripts to add the test result to nginx hosted folder, which is used for the monitoring web app  

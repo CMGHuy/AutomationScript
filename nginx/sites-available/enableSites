@@ -1,0 +1,1 @@
+test -e /etc/nginx/sites-enabled/reports.conf && rm /etc/nginx/sites-enabled/reports.conf; ln -s /etc/nginx/sites-available/reports.conf /etc/nginx/sites-enabled/reports.conf

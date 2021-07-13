@@ -1,0 +1,12 @@
+echo "server{
+	listen 30000;
+	server_name 10.57.51.40;
+	index MasterSuite.html;"
+for file in /var/www/host/*; do echo "
+	location ~ ^/${file##*/}/logs {
+		root /var/www/host/;
+	}
+	location ~ ^/${file##*/}/screenshots {
+		root /var/www/host/;
+	}"
+done; echo "}"
