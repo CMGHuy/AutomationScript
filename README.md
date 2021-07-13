@@ -3,6 +3,8 @@ All the code to control the system including:
     - The automation script, which is AutomationTesting.sh. It is the most important script in this folder  
       The script has the sequence of steps to start test execution  
       and the necessary commands to use all the jar files  also the Python scripts
+    - The merging report script, which is mergeReport.sh. It has the commands to use Python script and merge test results.
+    - The script removing old files, which are not necessary for the next executions.
     - The folders storing test results, test progress, jar files, test configuration files:  
         + testRunner: contains the jar file to modify Terraform configuration files.  
                       When modifying the number of created worker instances in the AutomationTesting.sh script,  
