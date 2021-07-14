@@ -9,8 +9,7 @@ This repository contains all the codes to control the system including:
     
 3.  The script removing old files, which are not necessary for the next executions.
     
-4.  The folders storing test results, test progress, jar files, test configuration files:  
-    
+4.  The folders storing test results, test progress, jar files, test configuration files:
         - testRunner: contains the jar file to modify Terraform configuration files.  
                       When modifying the number of created worker instances in the AutomationTesting.sh script,  
                       the Terraform configuration file needs to update. It is not convenient.  
