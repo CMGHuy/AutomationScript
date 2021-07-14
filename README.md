@@ -15,18 +15,26 @@ This repository contains all the codes to control the system including:
                   the Terraform configuration file needs to update. It is not convenient.  
                   Therefore, the TestRunner.jar file will create new Terraform configuration files  
                   whenever the config in file AutomationTesting.sh is changed.  
+      
     - testProgress:  
         + currentProgress: contains all the converted test progress from the subreport_text files  
         + masterSuite: contains all the divided test sets  
         + subreport_text: contains all the subreport_text from worker instances, which specify the current number of failed/passed tests.  
         + ProgressTracking.jar: the Java application to convert subreport_text to a simple progress file  
+        
     - report: contains the merged test result. This folder is zipped later and pushed into the database  
-    - PushBlob_jar: jar file PushBlob.jar has the methods to insert test progress and test result into the hosted web application  
+      
+    - PushBlob_jar: jar file PushBlob.jar has the methods to insert test progress and test result into the hosted web application
+      
     - MergeReportPython: contains the script to merge test reports to form the final test report
+      
     - GenerateMainResultHtml: contains the script to convert the test script into the appropriate HTML template
+      
     - fileDivider: contains the jar file used to divide the master test suite into multiple test sets
+      
     - configDownloader: contains the jar file, which is testReplyPost.jar, to send SOAP request to Siebel and download the master suite description
         + configXml: output.xml is the returned file from Siebel. test.xml is the request file. 
                          These files are not fully documented since they contain confidential data
         + outputFile: the batchconfig and masterSuite file
+        
     - nginx: contains the scripts to add the test result to nginx hosted folder, which is used for the monitoring web app  
