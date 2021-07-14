@@ -35,6 +35,6 @@ This repository contains all the codes to control the system including:
     - configDownloader: contains the jar file, which is testReplyPost.jar, to send SOAP request to Siebel and download the master suite description
         + configXml: output.xml is the returned file from Siebel. test.xml is the request file. 
                          These files are not fully documented since they contain confidential data
-        + outputFile: the batchconfig and masterSuite file
+        + outputFile: the batchconfig and masterSuite file, which are copied into the worker instances
         
     - nginx: contains the scripts to add the test result to nginx hosted folder, which is used for the monitoring web app  
